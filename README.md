@@ -4,6 +4,6 @@
 - 🤔 I’m looking for help with ... **MLOps**
 - 💬 Ask me about ... * *OpenAI's Sandbox, DALLE2, Alphafold Deepmind* *
 - 📫 How to reach me: ...
-        **LinkedIn** : https://www.linkedin.com/in/kirti-bhanu-9a0656198/
-        **Gmail** : kirtib.bhanu39@gmail.com
- - I have worked with Python,Tableau,Hadoop,R, NLP and CV algorithms
+- **LinkedIn** : https://www.linkedin.com/in/kirti-bhanu-9a0656198/
+-  **Gmail** : kirtib.bhanu39@gmail.com
+- I have worked with Python,Tableau,Hadoop,R, NLP and CV algorithms
