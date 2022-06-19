@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 **Kirtibhanu07/Kirtibhanu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Here are some ideas to get you started:
@@ -14,5 +11,3 @@
         **LinkedIn** : https://www.linkedin.com/in/kirti-bhanu-9a0656198/
         **Gmail** : kirtib.bhanu39@gmail.com
  - I have worked with Python,Tableau,Hadoop,R, NLP and CV algorithms
-
--->
