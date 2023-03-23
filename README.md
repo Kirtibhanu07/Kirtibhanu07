@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ... **Deep Learning and CV**
 - 👯 I’m looking to collaborate on ... **Data Visualization Tools**
 - 🤔 I’m looking for help with ... **MLOps**
-- 💬 Ask me about ... * *OpenAI's Sandbox, DALLE2, Alphafold Deepmind* *
+- 💬 Ask me about ... * *OpenAI's Sandbox, DALLE2, Alphafold Deepmind, ChatGPT, BARD* *
 - 📫 How to reach me: ...
 - **LinkedIn** : https://www.linkedin.com/in/kirti-bhanu-9a0656198/
 -  **Gmail** : kirtib.bhanu39@gmail.com
