@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ...**NLP Projects**
+- 🔭 I’m currently working on ...**Full Stack Data Science**
 - 🌱 I’m currently learning ... **Deep Learning and CV**
 - 👯 I’m looking to collaborate on ... **Data Visualization Tools**
 - 🤔 I’m looking for help with ... **MLOps**
